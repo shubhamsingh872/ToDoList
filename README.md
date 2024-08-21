@@ -1,5 +1,5 @@
-# QuadB-Assignment
-QUADB Assignment : Design a Simple React To-Do Application.
+# TO-DO-APP
+Simple React To-Do Application.
 
 
 
